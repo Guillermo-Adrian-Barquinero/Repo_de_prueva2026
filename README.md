@@ -1,3 +1,4 @@
 Léeme.
 
-Ya fuiste leido, ahora estas siendo escrito.
+*
+ Ya fuiste leido, ahora estas siendo escrito.
